@@ -6,9 +6,9 @@
 
 ## 🌟 About Me
 
-I'm a passionate full-stack developer with 2+ years of hands-on experience building production-ready applications across mobile and web platforms. Specialized in creating scalable, maintainable solutions using modern architectural patterns and best practices.
+I'm a passionate full-stack developer with 2+ years of hands-on experience building production-ready applications across mobile and web platforms. Specialized in creating scalable, maintainable sol[...]
 
-Driven by a commitment to clean code, continuous learning, and delivering exceptional user experiences. Currently focused on mastering advanced Flutter architecture patterns and backend optimization.
+Driven by a commitment to clean code, continuous learning, and delivering exceptional user experiences. Currently focused on mastering advanced Flutter architecture patterns and backend optimizati[...]
 
 ---
 
@@ -57,54 +57,72 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 
 ## 📂 Featured Projects
 
-### **1. HelpDesk** 🎯
+### **1. Payment Gateways - Production-Ready Fintech Checkout Engine** 💳 ⭐
+- **Description:** Scalable, multi-channel payment module demonstrating architectural evolution and state management mastery
+- **Tech Stack:** Dart 3+, Flutter, Riverpod, Clean Architecture, SOLID Principles
+- **Features:**
+  - Credit Card Processing with 3DS Verification
+  - Mobile Wallet Integration with OTP Authentication
+  - Fawry Reference Code Generation
+  - Advanced Form Validation & State Management
+  - Strategy Pattern Implementation for Channel Abstraction
+  - Sealed Classes for Compile-time Type Safety
+- **Key Architectural Achievements:**
+  - Solved UI bloat through Riverpod autoDispose lifecycle management
+  - Eliminated conditional logic sprawl via Strategy Design Pattern
+  - Implemented exhaustive state handling with Dart 3 pattern matching
+  - Production-ready error handling and edge case management
+- **Repository:** [Payment Gateways](https://github.com/AhmedMahmoud2024/payment_gateways)
+- **Status:** 🚀 Latest Production Project
+
+### **2. HelpDesk** 🎯
 - **Description:** Capstone project for Digitera Program
 - **Tech Stack:** Dart, Flutter
 - **Features:** Ticket management, user authentication, real-time updates
 - **Repository:** [HelpDesk](https://github.com/AhmedMahmoud2024/HelpDesk)
 
-### **2. E-commerce Application** 🛒
+### **3. E-commerce Application** 🛒
 - **Description:** Full-featured shopping platform with payment integration
 - **Tech Stack:** Dart, Flutter, Firebase, Clean Architecture
 - **Features:** Product browsing, cart management, user accounts, order tracking
 - **Repository:** [Ecommerce-app](https://github.com/AhmedMahmoud2024/Ecommerce-app)
 
-### **3. Food Ordering Platform** 🍕
+### **4. Food Ordering Platform** 🍕
 - **Description:** Complete full-stack solution for food delivery
 - **Tech Stack:** TypeScript, Node.js (Backend), Dart/Flutter (Mobile), C++ (Desktop)
 - **Features:** Real-time order tracking, payment integration, user reviews
 - **Repository:** [Food Ordering App](https://github.com/AhmedMahmoud2024/food-_ordering-app__full-stack)
 
-### **4. Weather App with Clean Architecture** 🌤️
+### **5. Weather App with Clean Architecture** 🌤️
 - **Description:** Demonstrates TDD and clean architecture principles
 - **Tech Stack:** Dart, Flutter, Clean Architecture, TDD
 - **Features:** Real-time weather data, location services, API integration
 - **Repository:** [Weather App](https://github.com/AhmedMahmoud2024/weather_app_using_clean_architecture_and_tdd)
 
-### **5. Task Management Application** ✅
+### **6. Task Management Application** ✅
 - **Description:** Advanced state management demonstration (Week 3 Project)
 - **Tech Stack:** Dart, Flutter, Provider/BLOC/Riverpod
 - **Features:** Task CRUD operations, categorization, filtering, persistence
 - **Repository:** [Task Management App](https://github.com/AhmedMahmoud2024/task_management_app)
 
-### **6. News Application** 📰
+### **7. News Application** 📰
 - **Description:** News aggregation with clean architecture
 - **Tech Stack:** Dart, Flutter, Clean Architecture
 - **Features:** Category filtering, article caching, smooth navigation
 - **Repository:** [News App](https://github.com/AhmedMahmoud2024/newa_app_using_clean_architecture)
 
-### **7. Chat Application** 💬
+### **8. Chat Application** 💬
 - **Description:** Real-time messaging platform
 - **Tech Stack:** Dart, Flutter, Firebase
 - **Features:** User authentication, real-time messaging, user presence
 - **Repository:** [Chat App](https://github.com/AhmedMahmoud2024/chat_app)
 
-### **8. Fitness Tracking Apps** 💪
+### **9. Fitness Tracking Apps** 💪
 - **Multiple implementations:** `fit`, `xfit`, `fithub_project`
 - **Features:** Workout tracking, progress analytics, user profiles
 - **Tech Stack:** Dart, Flutter
 
-### **9. Social Media Clones** 📱
+### **10. Social Media Clones** 📱
 - **Instagram Clone:** Full social features, image uploads, notifications
 - **Spotify Clone:** Music streaming UI, playlist management
 - **Sho3la Clone:** Job/services marketplace
