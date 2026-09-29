@@ -6,9 +6,13 @@
 
 ## 🌟 About Me
 
-I'm a passionate full-stack developer with 2+ years of hands-on experience building production-ready applications across mobile and web platforms. Specialized in creating scalable, maintainable sol[...]
+I'm a passionate full-stack and mobile developer with 2+ years of hands-on experience designing and building production-ready applications for mobile, web, and desktop platforms. My primary specialization is Flutter and Dart, with additional experience developing backend services using Node.js, Express, TypeScript, JavaScript, Firebase, and RESTful APIs.
 
-Driven by a commitment to clean code, continuous learning, and delivering exceptional user experiences. Currently focused on mastering advanced Flutter architecture patterns and backend optimizati[...]
+I enjoy transforming ideas and business requirements into reliable, intuitive, and scalable products. My development approach is centered on Clean Architecture, SOLID principles, reusable components, testable code, and thoughtful state management. I have worked with Provider, BLoC, and Riverpod to build maintainable applications that remain easy to extend as requirements evolve.
+
+Through academic projects, independent work, and the DevelopersHub Corporation internship, I have built applications covering fintech, e-commerce, food delivery, ticket management, weather, news, chat, fitness, and social media. These projects have strengthened my ability to design responsive interfaces, integrate APIs and Firebase services, implement authentication and real-time features, and solve complex problems across the full development lifecycle.
+
+Driven by a commitment to clean code, continuous learning, and delivering exceptional user experiences, I am currently focused on advanced Flutter architecture patterns, Riverpod, backend optimization, testing, and performance profiling. I am always interested in collaborating on meaningful products, contributing to open-source projects, and learning from experienced development teams.
 
 ---
 
@@ -18,7 +22,7 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 - **Duration:** 6-week intensive program (Week 1-6 progression)
 - **Key Achievements:**
   - Built 5+ production-ready Flutter applications
-  - Mastered state management (Provider, BLOC, Riverpod)
+  - Mastered state management (Provider, BLoC, Riverpod)
   - Implemented RESTful APIs and Firebase integration
   - Applied Clean Architecture and SOLID principles
   - Developed task management and authentication systems
@@ -31,7 +35,7 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 - **Languages:** Dart
 - **Frameworks:** Flutter
 - **Architecture:** Clean Architecture, MVVM, MVC
-- **State Management:** BLOC, Provider, Riverpod
+- **State Management:** BLoC, Provider, Riverpod
 - **Features:** Firebase Auth, Real-time Database, Local Storage, Push Notifications
 
 ### **Backend Development**
@@ -101,7 +105,7 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 
 ### **6. Task Management Application** ✅
 - **Description:** Advanced state management demonstration (Week 3 Project)
-- **Tech Stack:** Dart, Flutter, Provider/BLOC/Riverpod
+- **Tech Stack:** Dart, Flutter, Provider/BLoC/Riverpod
 - **Features:** Task CRUD operations, categorization, filtering, persistence
 - **Repository:** [Task Management App](https://github.com/AhmedMahmoud2024/task_management_app)
 
@@ -134,7 +138,7 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 | Category | Proficiency | Tools |
 |----------|-------------|-------|
 | **Mobile Development** | ⭐⭐⭐⭐⭐ | Flutter, Dart, Clean Architecture |
-| **State Management** | ⭐⭐⭐⭐⭐ | BLOC, Provider, Riverpod |
+| **State Management** | ⭐⭐⭐⭐⭐ | BLoC, Provider, Riverpod |
 | **Backend Development** | ⭐⭐⭐⭐ | Node.js, TypeScript, Firebase |
 | **UI/UX Implementation** | ⭐⭐⭐⭐ | Flutter Widgets, Responsive Design |
 | **Database Design** | ⭐⭐⭐⭐ | Firebase, RESTful APIs |
@@ -153,7 +157,7 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 
 ### **Phase 2: Advanced Architecture** ✓
 - Clean Architecture implementation
-- BLOC state management mastery
+- BLoC state management mastery
 - RESTful API integration
 - Firebase services
 
