@@ -4,15 +4,13 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 Overview
 
-I'm a passionate full-stack and mobile developer with 2+ years of hands-on experience designing and building production-ready applications for mobile, web, and desktop platforms. My primary specialization is Flutter and Dart, with additional experience developing backend services using Node.js, Express, TypeScript, JavaScript, Firebase, and RESTful APIs.
+I’m a passionate full-stack and mobile developer with 2+ years of hands-on experience building production-ready applications across mobile, web, and desktop platforms. My work focuses on creating scalable, maintainable software with strong architecture, clean code, and polished user experiences.
 
-I enjoy transforming ideas and business requirements into reliable, intuitive, and scalable products. My development approach is centered on Clean Architecture, SOLID principles, reusable components, testable code, and thoughtful state management. I have worked with Provider, BLoC, and Riverpod to build maintainable applications that remain easy to extend as requirements evolve.
+I enjoy transforming business ideas into reliable products using Clean Architecture, SOLID principles, and modern development practices. My experience includes academic projects, freelance work, and an internship at DevelopersHub Corporation, where I built applications in fintech, e-commerce, food delivery, ticketing, weather, and news domains.
 
-Through academic projects, independent work, and the DevelopersHub Corporation internship, I have built applications covering fintech, e-commerce, food delivery, ticket management, weather, news, chat, fitness, and social media. These projects have strengthened my ability to design responsive interfaces, integrate APIs and Firebase services, implement authentication and real-time features, and solve complex problems across the full development lifecycle.
-
-Driven by a commitment to clean code, continuous learning, and delivering exceptional user experiences, I am currently focused on advanced Flutter architecture patterns, Riverpod, backend optimization, testing, and performance profiling. I am always interested in collaborating on meaningful products, contributing to open-source projects, and learning from experienced development teams.
+I’m currently focused on advanced Flutter architecture patterns, Riverpod, backend optimization, and building efficient full-stack solutions with excellent developer ergonomics.
 
 ---
 
@@ -22,8 +20,8 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 - **Duration:** 6-week intensive program (Week 1-6 progression)
 - **Key Achievements:**
   - Built 5+ production-ready Flutter applications
-  - Mastered state management (Provider, BLoC, Riverpod)
-  - Implemented RESTful APIs and Firebase integration
+  - Mastered state management with Provider, BLoC, and Riverpod
+  - Implemented RESTful APIs and Firebase integrations
   - Applied Clean Architecture and SOLID principles
   - Developed task management and authentication systems
 
@@ -65,22 +63,22 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 - **Description:** Scalable, multi-channel payment module demonstrating architectural evolution and state management mastery
 - **Tech Stack:** Dart 3+, Flutter, Riverpod, Clean Architecture, SOLID Principles
 - **Features:**
-  - Credit Card Processing with 3DS Verification
-  - Mobile Wallet Integration with OTP Authentication
-  - Fawry Reference Code Generation
-  - Advanced Form Validation & State Management
-  - Strategy Pattern Implementation for Channel Abstraction
-  - Sealed Classes for Compile-time Type Safety
+  - Credit card processing with 3DS verification
+  - Mobile wallet integration with OTP authentication
+  - Fawry reference code generation
+  - Advanced form validation and state management
+  - Strategy pattern for channel abstraction
+  - Sealed classes for compile-time safety
 - **Key Architectural Achievements:**
-  - Solved UI bloat through Riverpod autoDispose lifecycle management
-  - Eliminated conditional logic sprawl via Strategy Design Pattern
+  - Reduced UI bloat using Riverpod autoDispose lifecycle management
+  - Eliminated conditional logic sprawl using the Strategy design pattern
   - Implemented exhaustive state handling with Dart 3 pattern matching
-  - Production-ready error handling and edge case management
+  - Built production-ready error handling and edge-case management
 - **Repository:** [Payment Gateways](https://github.com/AhmedMahmoud2024/payment_gateways)
-- **Status:** 🚀 Latest Production Project
+- **Status:** 🚀 Latest production project
 
 ### **2. HelpDesk** 🎯
-- **Description:** Capstone project for Digitera Program
+- **Description:** Capstone project for the Digitera Program
 - **Tech Stack:** Dart, Flutter
 - **Features:** Ticket management, user authentication, real-time updates
 - **Repository:** [HelpDesk](https://github.com/AhmedMahmoud2024/HelpDesk)
@@ -104,13 +102,13 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 - **Repository:** [Weather App](https://github.com/AhmedMahmoud2024/weather_app_using_clean_architecture_and_tdd)
 
 ### **6. Task Management Application** ✅
-- **Description:** Advanced state management demonstration (Week 3 Project)
+- **Description:** Advanced state management demonstration (Week 3 project)
 - **Tech Stack:** Dart, Flutter, Provider/BLoC/Riverpod
 - **Features:** Task CRUD operations, categorization, filtering, persistence
 - **Repository:** [Task Management App](https://github.com/AhmedMahmoud2024/task_management_app)
 
 ### **7. News Application** 📰
-- **Description:** News aggregation with clean architecture
+- **Description:** News aggregation app with clean architecture
 - **Tech Stack:** Dart, Flutter, Clean Architecture
 - **Features:** Category filtering, article caching, smooth navigation
 - **Repository:** [News App](https://github.com/AhmedMahmoud2024/newa_app_using_clean_architecture)
@@ -165,7 +163,7 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 - Backend API design with Node.js
 - Database optimization
 - Real-time data synchronization
-- Authentication & Security
+- Authentication & security
 
 ### **Current Focus**
 - Riverpod advanced patterns
@@ -189,8 +187,8 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 ## 🔗 Let's Connect
 
 - **GitHub:** [@AhmedMahmoud2024](https://github.com/AhmedMahmoud2024)
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** Available on request
+- **LinkedIn:** Available on request
 
 ---
 
@@ -224,15 +222,15 @@ Driven by a commitment to clean code, continuous learning, and delivering except
 
 ## 🏆 Achievements
 
-- ✅ DevelopersHub 6-Week Internship (Completed)
-- ✅ 30+ Production Projects
-- ✅ Clean Architecture Mastery
-- ✅ State Management Expertise
-- ✅ Full-Stack Development Capability
+- ✅ DevelopersHub 6-week internship (completed)
+- ✅ 30+ production projects
+- �� Clean Architecture mastery
+- ✅ State management expertise
+- ✅ Full-stack development capability
 
 ---
 
-**Last Updated:** August 2026  
+**Last Updated:** November 2026  
 *Always open to new opportunities and collaborations!*
 
 ---
